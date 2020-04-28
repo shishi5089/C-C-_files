@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581931465 source:c:\users\elitebook 840\documents\codeblocks projects\myset\main.cpp
+	<iostream>
+	<set>
+	<functional>
+
